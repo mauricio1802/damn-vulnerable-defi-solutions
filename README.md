@@ -5,7 +5,7 @@ I am trying to solve challenges from [Damn vulnerable DeFi](https://www.damnvuln
 ## Solved challenges
 
 - [x] Unstoppable
-- [ ] Naive receiver
+- [x] Naive receiver
 - [ ] Truster
 - [ ] Side entrance
 - [ ] The rewarder
