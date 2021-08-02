@@ -7,7 +7,7 @@ I am trying to solve challenges from [Damn vulnerable DeFi](https://www.damnvuln
 - [x] Unstoppable
 - [x] Naive receiver
 - [x] Truster
-- [ ] Side entrance
+- [x] Side entrance
 - [ ] The rewarder
 - [ ] Selfie
 - [ ] Compromised
