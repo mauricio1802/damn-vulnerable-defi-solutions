@@ -9,6 +9,6 @@ I am trying to solve challenges from [Damn vulnerable DeFi](https://www.damnvuln
 - [x] Truster
 - [x] Side entrance
 - [x] The rewarder
-- [ ] Selfie
+- [x] Selfie
 - [ ] Compromised
 - [ ] Puppet
