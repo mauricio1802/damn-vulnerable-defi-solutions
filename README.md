@@ -10,5 +10,5 @@ I am trying to solve challenges from [Damn vulnerable DeFi](https://www.damnvuln
 - [x] Side entrance
 - [x] The rewarder
 - [x] Selfie
-- [ ] Compromised
+- [x] Compromised
 - [ ] Puppet
